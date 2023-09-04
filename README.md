@@ -4,7 +4,8 @@
 ## Description
 2,981 Pairs - Images Data of No-fog and Fog. The collecting scenes includes urban roads, buildings, shops, country roads, mountains, ruins, parks, seasides, flowers, trees and other outdoor scenes. The data diversity inlcudes multiple time periods, multiple scenes, multiple collecting angles and different fogging degrees. This dataset can be used for tasks such as image defogging.
 
-For more details, please refer to the link: https://bit.ly/3DQE4SD
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1005?source=Github
+
 
 ## Data size
 2,981 pairs, 5,962 images
