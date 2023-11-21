@@ -32,4 +32,4 @@ the image data format is .jpg
 according to the contrast requirements of the no-fog and fog images(the contrasts are obvious), the accuracy exceeds 97%
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
